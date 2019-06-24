@@ -1,0 +1,9 @@
+1|2|3|4|
+4|3|2|1|
+4|3|7|1|
+J|D|SU|123|
+J|D|A|123|
+J|D|mailito0@yahoo.com|Dany|123|
+Jose|Sustaita|mailito1@gmail.com|JOSG|123456|
+Jose|Garza|mailito3@hotmail.com|JDSG|09876|
+Iris|Barron|mailito4@gmail.com|Arcoiris|123456|
